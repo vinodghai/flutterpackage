@@ -1,8 +1,7 @@
 name: flutterpackage
 description: A Flutter package for Calculator operations and an additional widget to make your text appear Red.
 version: 0.0.1
-author: Vinod Kumar
-homepage:
+repository: https://github.com/vinodghai/flutterpackage
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
